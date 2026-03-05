@@ -1,6 +1,7 @@
 # Synapsis Health AI — Humanoid 3D Print Files (Buzz Lightyear Variant)
 
 **Author:** Reza Shoja Ghiass
+**Website**: Synapsis-health.ai 
 
 This repository contains 3D-printable parts used in my personal humanoid robot project (Synapsis Health AI).
 
@@ -58,7 +59,6 @@ Printing large parts “solid” will:
 - Reorganized files into folders for my build workflow
 - Scaled parts to **450%**
 - Arms excluded from my build
-- Other edits (if any): <LIST_PARTS_AND_SUMMARIZE_CHANGES>
 
 ---
 
